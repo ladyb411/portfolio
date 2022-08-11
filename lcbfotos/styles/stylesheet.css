@@ -1,24 +1,52 @@
 body {
-  background-color: whitesmoke;
+  margin-right: 22rem;
+  margin-top: 1.5rem;
+  background-color: ivory;
+}
+.menu {
+  color: black;
 }
 h1 {
   font-style: italic;
   font-family: sans-serif;
   font-size: 22px;
   text-transform: lowercase;
+  line-height: 1.6;
+  color: black;
+}
+.intro {
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 20px;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 18px;
 }
 p {
-  font-style: italic;
   font-family: sans-serif;
   font-size: 17px;
+  width: 80%;
+  line-height: 1.6;
+  padding: 2.5px;
+  color: black;
 }
 .menu-titles {
   font-style: italic;
   line-height: 2.5px;
   font-family: sans-serif;
-  font-weight: bold;
-  font-size: 18px;
+  font-weight: lighter;
+  word-spacing: 10px;
 }
-.sutro-baths-4 {
-  border-style: double;
+.sutro-baths {
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+}
+.photographer {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: small;
+  font-style: italic;
 }
